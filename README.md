@@ -6,7 +6,7 @@
 
 ## Installation
 
-The package can be installed by `git`. The testing setup involves a Windows operating system with 16GB of RAM, powered by an NVIDIA GeForce RTX 4070 Ti GPU and an Intel(R) Core(TM) i5-13490f CPU @ 4..80GHz.
+The package can be installed by `git clone https://github.com/mazongpei/scMGCL.git`. The testing setup involves a Windows operating system with 16GB of RAM, powered by an NVIDIA GeForce RTX 4070 Ti GPU and an Intel(R) Core(TM) i5-13490f CPU @ 4..80GHz.
 
 ### Utilize a virtual environment using Anaconda
 
