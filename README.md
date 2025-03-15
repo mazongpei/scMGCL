@@ -14,6 +14,7 @@ You can set up the primary environment for scMGCL by using the following command
 
 ```
 conda env create -f environment.yml
+conda activate sc
 ```
 
 ## Running scMGCL
